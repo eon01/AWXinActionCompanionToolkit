@@ -2,7 +2,7 @@
 
 This repository contains the code snippets used in [AWX in Action: Ansible Orchestration at Scale](#todo).
 
-[![AWX in Action: Ansible Orchestration at Scale](images/3D.png)](#todo)
+[![AWX in Action: Ansible Orchestration at Scale](3D.png)](#todo)
 
 ## Who This Book Is For
 
